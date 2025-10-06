@@ -11,7 +11,7 @@ This project implements a complete SQL-based system for managing inventory effic
 | `Sample_Tables.sql` | Creates core tables such as `products`, `suppliers`, `inventory`, and `transactions`. |
 | `Sample_Dataset.sql` | Populates the tables with sample data to simulate real-world inventory operations. |
 | `Import.sql` | Contains data imports, integrity constraints, and foreign key relationships. |
-| `ETL_Dataset.sql` | Performs ETL operations – Extracts raw data, transforms it into structured format, and loads it into the system. |
+| `ETL_ Dataset.sql` | Performs ETL operations – Extracts raw data, transforms it into structured format, and loads it into the system. |
 | `Insights_According_To_Data.sql` | Provides business insights using advanced SQL queries (e.g., reorder alerts, top products, supplier performance). |
 | `Deliverables.sql` | Combines all final deliverables such as KPIs, dashboards, and summary views as per business requirements. |
 
